@@ -3,7 +3,7 @@
 
 My name is Hamid and I am a genomic data analyst
 
-- 🔭 I’m currently working on applying machine lerning methods to classify germline variants
+- 🔭 Currently working on applying machine learning methods to classify germline variants
 - 🌱 I’m currently learning SQL/BigQuery
 - 👯 I’m looking to collaborate on muti-omics data analysis
 - 💬 Ask me about "how to" perform genomic data analysis in R/Python
